@@ -2,181 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3698347f-c8a6-49f1-8228-f38fe7cd4520" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_0_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_12_3_0_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_12_3_0_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/FunctionalPlaypen-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/FunctionalPlaypen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/Dependencies.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$15dcbabd2d735ad3e5c2$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$15dcbabd2d735ad3e5c2.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$15dcbabd2d735ad3e5c2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1bc4e0e74ea3859dc7d4$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1bc4e0e74ea3859dc7d4.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1bc4e0e74ea3859dc7d4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$89bd0cc84860cf430d30$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$89bd0cc84860cf430d30.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$89bd0cc84860cf430d30.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b7a4f24cc8d838816aa4$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b7a4f24cc8d838816aa4.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b7a4f24cc8d838816aa4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c3fcff2e187952af0c6d$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c3fcff2e187952af0c6d.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c3fcff2e187952af0c6d.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$d561a5d429b0a0f00b1e$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$d561a5d429b0a0f00b1e.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$d561a5d429b0a0f00b1e.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/Dependencies$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/Dependencies.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/functionalplaypen-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/functionalplaypen-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.2.5/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.2.5/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionalplaypen-build-compile-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionalplaypen-build-compile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionalplaypen-build-optional.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionalplaypen-build-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionalplaypen-build-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionalplaypen-build-provided.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionalplaypen-build-runtime-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionalplaypen-build-runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionalplaypen-build-scala-tool.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionalplaypen-build-test-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-functionalplaypen-build-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-compile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-optional.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-provided.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/entity/PersonEntity.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/model/Person.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/model/Student.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/monad/Monad.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/repository/PersonRepository.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/monad/HelloSpec.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/META-INF/FunctionalPlaypen.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/entity/PersonEntity$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/entity/PersonEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/model/Address$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/model/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/model/Person$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/model/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/model/Student$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/model/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monads/Bag$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monads/Bag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monads/Greeting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monads/Hello$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monads/Hello$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monads/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monads/app$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monads/app$Sugar$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monads/app$Sugar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monads/app$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monads/app.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/repository/PersonRepository$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/repository/PersonRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/com.example/functionalplaypen$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/com.example/functionalplaypen$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/com.example/functionalplaypen_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/com.example/functionalplaypen_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-compile-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-compile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-optional.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-provided.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-runtime-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-scala-tool.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-test-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-compile-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-compile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-optional.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-provided.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-runtime-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-scala-tool.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-test-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/META-INF/FunctionalPlaypen.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/monads/HelloSpec.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaTestbench/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaTestbench/JavaTestbench.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaTestbench/src/sample/spring/chapter01/Calculator.java" afterDir="false" />
@@ -230,6 +55,82 @@
       <change afterPath="$PROJECT_DIR$/../spring-boot-properties/src/main/java/com/mkyong/MailService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FunWithSpock/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../FunWithSpock/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FunWithSpock/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FunWithSpock/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/META-INF/FunctionalPlaypen.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/entity/PersonEntity$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/entity/PersonEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/model/Address$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/model/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/model/Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/model/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/model/Student$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/model/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monads/Bag$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monads/Bag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monads/Greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monads/Hello$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monads/Hello$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monads/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monads/app$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monads/app$Sugar$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monads/app$Sugar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monads/app$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monads/app.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/repository/PersonRepository$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/repository/PersonRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/com.example/functionalplaypen$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/com.example/functionalplaypen$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/com.example/functionalplaypen_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/com.example/functionalplaypen_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen$sources-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.example-functionalplaypen_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/META-INF/FunctionalPlaypen.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/monads/HelloSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mule-project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/main/app/add_details.xml" beforeDir="false" />
@@ -660,7 +561,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -702,7 +603,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/entity/PersonEntity.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="254">
-              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -711,16 +612,25 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/monad/Monad.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="349">
-              <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            <state relative-caret-position="416">
+              <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -745,6 +655,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/Main.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/monad/Monad.scala" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.circleci/config.yml" />
       </list>
     </option>
   </component>
@@ -771,6 +682,11 @@
             <path>
               <item name="FunctionalPlaypen" type="b2602c69:ProjectViewProjectNode" />
               <item name="FunctionalPlaypen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FunctionalPlaypen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FunctionalPlaypen" type="462c0819:PsiDirectoryNode" />
+              <item name=".circleci" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FunctionalPlaypen" type="b2602c69:ProjectViewProjectNode" />
@@ -831,7 +747,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550276362389" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550276628436" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
@@ -946,12 +862,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550156446669</updated>
       <workItem from="1550156452923" duration="4306000" />
-      <workItem from="1550170486504" duration="12589000" />
+      <workItem from="1550170486504" duration="12854000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16895000" />
+    <option name="totallyTimeSpent" value="17160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="566" y="41" width="874" height="826" extended-state="0" />
@@ -1013,7 +929,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/entity/PersonEntity.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1044,7 +960,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -1054,14 +970,21 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/monad/Monad.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
-          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
         </state>
       </provider>
     </entry>
