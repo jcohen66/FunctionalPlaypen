@@ -14,3 +14,4 @@ lazy val root = (project in file("."))
 // See https://www.scala-sbt.org/1.x/docs/Using-Sonatype.html for instructions on how to publish to Sonatype.
 libraryDependencies += "net.liftweb" %% "lift-json" % "3.3.0"
 libraryDependencies += "org.json4s" %% "json4s-jackson" % "3.6.4"
+libraryDependencies += "org.scalactic" %% "scalactic" % "3.2.0-SNAP10"
