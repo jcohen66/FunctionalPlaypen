@@ -1,6 +1,12 @@
 package monad
 
-class Wrapper[A](value: A) {
+/**
+  * Note the private constructor and companion object.
+  *
+  * @param value
+  * @tparam A
+  */
+class Wrapper[A] private (value: A) {
   def map[B](f: A => B): Wrapper[B] = {
     // apply 'f' to an 'Int' to get a new 'Int'
     val newInt = f(value)
@@ -20,25 +26,9 @@ class Wrapper[A](value: A) {
 
 object Wrapper extends App {
 
-  val x = new Wrapper(1)
-  x.map(_ * 2)
+  def apply[A](value: A): Wrapper[A] = new Wrapper(value)
 
-  for {
-    i <- x
-  } yield i * 2
-
-  val result: Wrapper[Int] = for {
-    a <- new Wrapper(1)
-    b <- new Wrapper(2)
-    c <- new Wrapper(3)
-  } yield a + b + c
-
-  println(result)
-
-  val result2: Wrapper[String] = for {
-    a <- new Wrapper("hello, ")
-    b <- new Wrapper("world")
-  } yield a + b
-
-  println(result2)
 }
+
+
+
