@@ -1,8 +1,8 @@
-package state
+package monad.state
 
 
 /**
-  * Manually manage state using a list.
+  * Manually manage monad.state using a list.
   */
 object Golfing2 extends App {
 

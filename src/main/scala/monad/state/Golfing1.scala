@@ -1,9 +1,9 @@
-package state
+package monad.state
 
 case class GolfState(distance: Int)
 
 /**
-  * Manually manage state.
+  * Manually manage monad.state.
   *
   */
 object Golfing1 extends App {

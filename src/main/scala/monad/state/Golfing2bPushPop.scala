@@ -1,7 +1,7 @@
-package state
+package monad.state
 
 /**
-  * Managing state is often compared to pushing
+  * Managing monad.state is often compared to pushing
   * and popping items to/from a list.
   */
 object Golfing2bPushPop extends App {

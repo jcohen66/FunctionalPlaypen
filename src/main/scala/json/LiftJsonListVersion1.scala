@@ -1,7 +1,7 @@
 package json
 
-import net.liftweb.json._
 import net.liftweb.json.JsonDSL._
+import net.liftweb.json._
 
 
 case class Person(name: String, address: Address) {
@@ -24,13 +24,13 @@ object LiftJsonListsVersion1 extends App {
       ("name" -> p.name) ~
         ("address" ->
           ("city" -> p.address.city) ~
-            ("state" -> p.address.state)) ~
+            ("monad/state" -> p.address.state)) ~
         ("friends" ->
           friends.map { f =>
             ("name" -> f.name) ~
               ("address" ->
                 ("city" -> f.address.city) ~
-                  ("state" -> f.address.state))
+                  ("monad/state" -> f.address.state))
           })
       )
   println(prettyRender(json))

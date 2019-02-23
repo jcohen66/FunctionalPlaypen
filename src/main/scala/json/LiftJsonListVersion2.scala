@@ -1,7 +1,7 @@
 package json
 
-import net.liftweb.json._
 import net.liftweb.json.JsonDSL._
+import net.liftweb.json._
 
 object LiftJsonListsVersion2 extends App {
   val merc = Person_("Mercedes", Address_("Somewhere", "KY"))
@@ -26,7 +26,7 @@ object LiftJsonListsVersion2 extends App {
   def getAddress(a: Address_) = {
     ("address" ->
       ("city" -> a.city) ~
-        ("state" -> a.state))
+        ("monad/state" -> a.state))
   }
 }
 
