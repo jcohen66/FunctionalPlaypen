@@ -12,8 +12,10 @@ object IOTest2 extends App {
     fNameUC   = firstName.toUpperCase
     lNameUC   = lastName.toUpperCase
     _         <- putStrLn(s"First: $fNameUC, Last: $lNameUC")
-  } yield ()
+  } yield ()  // returns IO[Unit]
 
+  // run the block whenever you want to.
+  // nothing happens until run is called.
   forExpression.run
 
 }

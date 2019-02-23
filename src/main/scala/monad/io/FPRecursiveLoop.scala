@@ -2,6 +2,11 @@ package monad.io
 
 import io_monad._
 
+/**
+  * This is the pattern for command line apps.
+  * It recurses until terminal condition met
+  * then returns an IO[Unit].
+  */
 object FPRecursiveLoop extends App {
 
   def loop: IO[Unit] = for {
