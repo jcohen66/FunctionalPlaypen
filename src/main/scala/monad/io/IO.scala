@@ -4,6 +4,9 @@ package monad.io
   * IO Monad is marker to indicate impure function call
   * that interacts with the outside world.
   *
+  * It implements map and flatMap so it can be used
+  * inside a for expression.
+  *
   * @param constructorCodeBlock
   * @tparam A
   */
