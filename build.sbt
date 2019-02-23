@@ -15,7 +15,6 @@ lazy val root = (project in file("."))
 libraryDependencies += "net.liftweb" %% "lift-json" % "3.3.0"
 libraryDependencies += "org.json4s" %% "json4s-jackson" % "3.6.4"
 libraryDependencies += "org.scalactic" %% "scalactic" % "3.2.0-SNAP10"
-libraryDependencies ++= Seq(
-  "org.typelevel" %% "cats" % "0.9.0",
-  "org.typelevel" %% "cats-effect" % "0.3"
-)
+libraryDependencies += "org.typelevel" %% "cats" % "0.9.0"
+libraryDependencies += "org.typelevel" %% "cats-effect" % "0.3"
+
