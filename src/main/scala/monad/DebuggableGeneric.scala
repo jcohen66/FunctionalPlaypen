@@ -14,7 +14,7 @@ case class DebuggableGeneric[A] (value: A, message: String) {
 
 }
 
-object Tester extends App {
+object TesterGeneric extends App {
 
   def f(a: Int): DebuggableGeneric[Int] = {
     val result = a * 2
