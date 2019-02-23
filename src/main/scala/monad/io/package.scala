@@ -9,6 +9,13 @@ package monad.io
 package object io_monad {
 
   def getLine: IO[String] = IO(scala.io.StdIn.readLine())
+
+  /**
+    * Takes a String and returns an I/O Action with side effect.
+    *
+    * @param s
+    * @return
+    */
   def putStrLn(s: String): IO[Unit] = IO(println(s))
 
 }
