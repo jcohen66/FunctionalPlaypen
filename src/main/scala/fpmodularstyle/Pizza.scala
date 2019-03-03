@@ -1,4 +1,4 @@
-package domain
+package fpmodularstyle
 
 // Topping Enumeration
 sealed trait Topping

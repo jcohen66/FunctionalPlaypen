@@ -1,4 +1,4 @@
-package domain.alspizza.pos.database
+package fpmodularstyle.alspizza.pos.database
 
 
 //case class ToppingPrices(

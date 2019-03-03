@@ -1,7 +1,7 @@
-package domain.alspizza.pos.services
+package fpmodularstyle.alspizza.pos.services
 
-import domain._
-import domain.alspizza.Money
+import fpmodularstyle._
+import fpmodularstyle.alspizza.Money
 
 /**
   * Define as abstract because it must have a database

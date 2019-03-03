@@ -1,4 +1,4 @@
-package domain
+package fpmodularstyle
 
 package object alspizza {
 

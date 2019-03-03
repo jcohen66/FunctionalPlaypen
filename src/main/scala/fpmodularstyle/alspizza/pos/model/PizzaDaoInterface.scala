@@ -1,7 +1,7 @@
-package domain.alspizza.pos.model
+package fpmodularstyle.alspizza.pos.model
 
-import domain.alspizza.Money
-import domain.{CrustSize, CrustType, Topping}
+import fpmodularstyle.alspizza.Money
+import fpmodularstyle.{CrustSize, CrustType, Topping}
 
 /**
   * the interface for the functions (services) that a DAO

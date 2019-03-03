@@ -1,4 +1,4 @@
-package domain
+package fpmodularstyle
 
 case class Address (
   var street1: String,

@@ -1,8 +1,8 @@
-package domain.alspizza.pos.services
+package fpmodularstyle.alspizza.pos.services
 
-import domain.alspizza.Money
-import domain.alspizza.utils.ListUtils
-import domain.{CrustSize, CrustType, Pizza, Topping}
+import fpmodularstyle.alspizza.Money
+import fpmodularstyle.{CrustSize, CrustType, Pizza, Topping}
+import utils.ListUtils
 
 trait PizzaService {
 

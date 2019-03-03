@@ -1,7 +1,7 @@
-package domain.alspizza.pos.model
+package fpmodularstyle.alspizza.pos.model
 
-import domain._
-import domain.alspizza.Money
+import fpmodularstyle._
+import fpmodularstyle.alspizza.Money
 
 object MockPizzaDao extends PizzaDaoInterface {
 

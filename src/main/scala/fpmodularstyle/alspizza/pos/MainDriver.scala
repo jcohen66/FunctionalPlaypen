@@ -1,9 +1,9 @@
-package domain.alspizza.pos
+package fpmodularstyle.alspizza.pos
 
 
 
-import domain._
-import domain.alspizza.pos.services.PizzaService
+import fpmodularstyle._
+import fpmodularstyle.alspizza.pos.services.PizzaService
 
 /**
   * Driver class used for setting up data and testing the API.  Lets
@@ -90,7 +90,7 @@ object MainDriver extends App {
 
   // calculate the price of the current order (o3) using the
   // MockDbOrderService
-  import domain.alspizza.pos.services.MockDbOrderService.calculateOrderPrice
+  import fpmodularstyle.alspizza.pos.services.MockDbOrderService.calculateOrderPrice
   val orderPrice = calculateOrderPrice(o3)
   println(s"Order Price = $orderPrice")
 

@@ -1,4 +1,4 @@
-package domain
+package fpmodularstyle
 
 case class Customer (
   var name: String,

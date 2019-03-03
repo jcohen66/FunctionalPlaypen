@@ -1,4 +1,4 @@
-package domain.alspizza.utils
+package utils
 
 /**
   * Alvinj Utility function.

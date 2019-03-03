@@ -1,8 +1,8 @@
-package domain.alspizza.pos.services
+package fpmodularstyle.alspizza.pos.services
 
-import domain.Order
-import domain.alspizza.Money
-import domain.alspizza.pos.model.PizzaDaoInterface
+import fpmodularstyle.Order
+import fpmodularstyle.alspizza.Money
+import fpmodularstyle.alspizza.pos.model.PizzaDaoInterface
 
 /**
   * Use references to avoid hardwiring resources.

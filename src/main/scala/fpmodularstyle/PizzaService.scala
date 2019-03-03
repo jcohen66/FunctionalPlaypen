@@ -1,6 +1,6 @@
-package domain
+package fpmodularstyle
 
-import domain.alspizza.utils.ListUtils
+import utils.ListUtils
 
 trait PizzaService extends PizzaServiceInterface {
 
