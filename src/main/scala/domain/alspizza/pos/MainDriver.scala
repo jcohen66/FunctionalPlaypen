@@ -5,10 +5,15 @@ package domain.alspizza.pos
 import domain._
 import domain.alspizza.pos.services.PizzaService
 
+/**
+  * Driver class used for setting up data and testing the API.  Lets
+  * me look at the service API from the perspective of the consumer
+  * of the API.
+  */
 object MainDriver extends App {
 
   // create a concrete PizzaService instance so i can
-  // call its functions
+  // call its functions - REIFYING the trait
   object PizzaService extends PizzaService
 
   // import all of its functions

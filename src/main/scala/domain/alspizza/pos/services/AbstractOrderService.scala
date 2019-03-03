@@ -3,6 +3,11 @@ package domain.alspizza.pos.services
 import domain._
 import domain.alspizza.Money
 
+/**
+  * Define as abstract because it must have a database
+  * to be used.  It has to be REIFIED one more time
+  * by extending it and implementing the methods.
+  */
 trait AbstractOrderService extends OrderServiceInterface {
 
   // create a concrete implementation of the trait so we

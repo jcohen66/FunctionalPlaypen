@@ -4,6 +4,9 @@ import domain.Order
 import domain.alspizza.Money
 import domain.alspizza.pos.model.PizzaDaoInterface
 
+/**
+  * Use references to avoid hardwiring resources.
+  */
 trait OrderServiceInterface {
 
   // implementing classes should provide their own database
